@@ -24,7 +24,7 @@ body {
   line-height: 1.6;
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #15202b;
+  background-color: white;
   padding: 30px;
   color: #333;
 }
@@ -101,13 +101,13 @@ h6 tt, h6 code {
 
 h1 {
   font-size: 28px;
-  color: white;
+  color: black;
 }
 
 h2 {
   font-size: 24px;
   border-bottom: 1px solid #cccccc;
-  color: white;
+  color: black;
 }
 
 h3 {
@@ -128,7 +128,7 @@ h6 {
 }
 
 p, blockquote, ul, ol, dl, li, table, pre {
-  margin: 5px 0;
+  margin: 15px 0;
 }
 
 hr {
@@ -404,3 +404,4 @@ pre code, pre tt {
   background-color: transparent;
   border: none;
 }
+
