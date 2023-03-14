@@ -21,16 +21,16 @@ testing paragraph TEMP more stuff more more stuff hi yo yo y o oy oy oy oy o yo 
 
 ## Skills
 
-> JavaScript
-> Html
-> Node.js
-> Python
-> SQl
-> Amazon RDS
-> Express.js
-> REST APIs development
-> CSS
-> Blockchain architecture
+* JavaScript 
+* Html
+* Node.js
+* Python
+* SQl
+* Amazon RDS
+* Express.js
+* REST APIs development
+* CSS
+* Blockchain architecture
 
 ## Employment History
 
