@@ -19,9 +19,16 @@ Software developer.
 
 ## Skills
 
+- JavaScript
+- Html
 - Node.js
-- 
-
+- Python
+- SQl
+- Amazon RDS
+- Express.js
+- REST APIs development
+- CSS
+- Blockchain architecture
 
 ## Employment History
 
