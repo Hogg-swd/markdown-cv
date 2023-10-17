@@ -31,8 +31,13 @@ Computer Science graduate with good technical understanding and 3+ years of prog
 * REST APIs development
 * CSS
 * Blockchain architecture
+* React.js
 
 ## Employment History
+
+* Tesco 
+
+
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
